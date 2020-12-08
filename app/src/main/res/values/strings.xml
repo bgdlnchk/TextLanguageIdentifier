@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextLanguageIdentifier</string>
+    <string name="check_language">Check Language</string>
+    <string name="write_a_word_or_a_sentence">Write a word or a sentence</string>
+</resources>
